@@ -7,7 +7,7 @@ print ("""
 // quotient 
 % remainder
 ^ ext
-root sqr
+root square root
 """)
 
 

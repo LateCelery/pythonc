@@ -5,7 +5,7 @@ print ("""
 / dev
 * m
 // quotient 
-% remander 
+% remainder
 ^ ext
 root sqr
 """)
